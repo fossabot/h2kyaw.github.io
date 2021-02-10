@@ -1,7 +1,7 @@
 ---
-title: 'Our Difference'
-button: 'About us'
+title: 'About Me'
+button: 'About me'
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+နာမည်အရင်းကတော့ ဟိန်းထက်ကျော်ပဲဖြစ်ပါတယ်။
