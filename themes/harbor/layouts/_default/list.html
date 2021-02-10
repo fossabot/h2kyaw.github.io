@@ -16,8 +16,8 @@
     {{ if .Paginator.HasPrev }}
     <li class="previous">
       {{ if $.Site.Params.uglyurls }}
-      <a href="{{ replaceRE " \\.html$" "/" .Permalink }}page/{{ .Paginator.Prev.PageNumber }}.html">&larr; {{ i18n
-        "newer" }}</a>
+      <a href="{{ replaceRE " \\.html$" "/" .Permalink }}page/{{ .Paginator.Prev.PageNumber }}.html">&larr;
+        {{ i18n "newer" }}</a>
       {{ else }}
       <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newer" }}</a>
       {{ end }}
