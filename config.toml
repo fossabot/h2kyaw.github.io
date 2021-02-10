@@ -82,7 +82,7 @@ disqusShortName = "heinhtetkyaw"
   favicon = "favicon.ico"
 
 [params.logo]
-  url = "icon.png"
+  url = "icon.svg"
   width = 50
   height = 50
   alt = "Logo"
