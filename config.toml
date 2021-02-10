@@ -8,6 +8,10 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "harbor"
 
+googleAnalytics = "UA-138756551-3"
+# and disqus too.
+disqusShortName = "heinhtetkyaw"
+
 [Author]
   author = "Hein Htet Kyaw"
 
