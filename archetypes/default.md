@@ -1,14 +1,19 @@
 +++
+author = "Hein Htet Kyaw"
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
-tags = [""]
-draft = false
-toc = false
-backtotop = false
+description = ""
+tags = [
+    "",
+]
+categories = [
+    "",
+]
+
 +++
 
 # Title
 
-<!-- toc -->
+<!-- more -->
 
 ## Contents
