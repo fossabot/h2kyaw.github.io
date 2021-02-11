@@ -1,7 +1,7 @@
 +++
 author = "Hein Htet Kyaw"
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
+date = "{{ .Date }}"
 description = ""
 tags = [
     "",
