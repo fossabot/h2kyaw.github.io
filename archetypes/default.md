@@ -14,6 +14,6 @@ categories = [
 
 # Title
 
-<!-- more -->
+<!--more-->
 
 ## Contents
