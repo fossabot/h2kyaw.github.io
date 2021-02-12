@@ -1,16 +1,16 @@
 baseURL = "https://h2kyaw.github.io/"
 title = "K's V/Blog"
-author = "Hein Htet Kyaw"
 paginate = 5
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "my"
+DefaultContentLanguage = "my"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "harbor"
 
 googleAnalytics = "UA-138756551-3"
-# and disqus too.
 disqusShortName = "heinhtetkyaw"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [Author]
   author = "Hein Htet Kyaw"
@@ -80,9 +80,23 @@ disqusShortName = "heinhtetkyaw"
 [params]
   mainSections = ["post"]
   favicon = "favicon.ico"
+  readingTime = true
+  author = "Hein Htet Kyaw"
+  github = "https://github.com/h2kyaw"
+  facebook = "https://facebook.com/heinhtetkyaw.blog"
+  ogimage = "/images/og.png"
+  sitename = "K's V/Blog"
+  twitter = "@HeinHtetKyaw_"
+  description = "You can read Kiddo's Blogs again, Extra you can watch Video Tutorials later too."
 
 [params.logo]
   url = "icon.svg"
   width = 50
   height = 50
   alt = "Logo"
+
+[languages]
+  [languages.my]
+  languageName = "Myanmar"
+  languageCode = "my"
+  weight = 1

@@ -7,4 +7,8 @@
     {{ . }}</a>&nbsp;
   {{ end }}
   {{ end }}
+  {{ if .Site.Params.readingTime }}
+  &nbsp; <i class="fas fa-clock"></i>{{ i18n "readingTime"}} {{ .ReadingTime }} {{ i18n "readTime" }} ({{ .WordCount }}
+  {{ i18n "words" }})
+  {{ end }}
 </span>
