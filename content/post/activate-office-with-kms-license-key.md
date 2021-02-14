@@ -123,3 +123,5 @@ pause >nul
 ![CMD Method Activated](/images/cmd-method-activated.png)
 
 ဒီလောက်ဆိုရင်တော့ Windows မှာ ဘာ Activation Software ကိုမှ မသုံးပါပဲ Activation နည်းလမ်းတွေကို သိရပြီပဲဖြစ်ပါတယ်။ မနေ့က ရေးသားခဲ့တာကတော့ Windows ကို Activate လုပ်နည်းပါ အခုတော့ Office ပါ။ အဆင်မပြေတာများရှိရင် မေးမြန်းခဲ့နိုင်ပါတယ်။ 😘
+
+Main Website: [Install and activate Office 2019 for FREE legally using Volume license](https://msguides.com/microsoft-software-products/office-2019.html)
