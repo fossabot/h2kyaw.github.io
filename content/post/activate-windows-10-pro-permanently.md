@@ -3,7 +3,7 @@ author = "Hein Htet Kyaw"
 title = "Activate Windows 10 Pro Permanently"
 date = "2021-02-12T22:08:58+06:30"
 images = ["/images/activate-windows-10-pro-permanently.png"]
-description = ""
+description = "ဒီတစ်ခါကတော့ Windows 10 ကို ဘယ်လို Activate လုပ်ရမလဲဆိုတဲ့အကြောင်းအရာပဲဖြစ်ပါတယ်။"
 tags = [
     "Windows",
     "Activation"
@@ -11,6 +11,7 @@ tags = [
 categories = [
     "Windows",
 ]
+series = ["Windows"]
 backtotop = true
 +++
 

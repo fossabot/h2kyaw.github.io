@@ -12,6 +12,7 @@ categories = [
     "Microsoft Office",
     "Office 365",
 ]
+series = ["Windows"]
 backtotop = true
 +++
 
