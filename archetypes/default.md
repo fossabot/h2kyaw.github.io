@@ -3,13 +3,10 @@ author = "Hein Htet Kyaw"
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = "{{ .Date }}"
 description = ""
-tags = [
-    "",
-]
-categories = [
-    "",
-]
-
+tags = ["", "",]
+categories = ["", "",]
+series = [""]
+backtotop = true
 +++
 
 # Title

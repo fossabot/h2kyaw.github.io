@@ -1,6 +1,7 @@
 +++
 title = "Data Hack Warp+ 1.1.1.1"
-date = 2021-02-10T16:35:04+06:30
+date = "2021-02-10T16:35:04+06:30"
+images = ["/images/Warp.png"]
 tags = [
     "VPN",
 ]
@@ -8,6 +9,7 @@ categories = [
     "VPN",
 ]
 series = ["Networking"]
+backtotop = "true"
 +++
 
 [Virtual private network](https://en.wikipedia.org/wiki/Virtual_private_network) အကြောင်းကိုကျွန်တော်တို့ သုံးဖူးကြသလို တော်တော်များများလဲ ကြားဖူးကြမှာပဲဖြစ်ပါတယ်။ ၂၀၂၁ ရဲ့ ဖေဖော်ဝါရီလထဲမှာတော့ တော်တော်များများကို အသုံးပြုနေကြတာပဲဖြစ်ပါတယ်။ [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) တွေထဲကတစ်ခုဖြစ်တဲ့ 1.1.1.1 ဆိုတဲ့ကောင်လေးကို Data တွေကို Share မလုပ်ပါပဲ ဘယ်လို တိုးလို့ရမလဲဆိုတာကို မျှဝေပေးသွားမှာပဲဖြစ်ပါတယ်။

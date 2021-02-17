@@ -2,7 +2,8 @@
 author = "Hein Htet Kyaw"
 title = "Activate Office With KMS License Key"
 date = "2021-02-13T21:41:16+06:30"
-description = ""
+images = ["/images/open-cmd.png"]
+description = "ဒီအကြောင်းအရာလေးကတော့ Windows 10 မှာ Office တွေကို ဘယ်လို Activate လုပ်ရမလဲဆိုတာကို ရှင်းပြသွားမှာပဲဖြစ်ပါတယ်။"
 tags = [
     "Microsoft Office",
     "Office 365",
@@ -11,7 +12,7 @@ categories = [
     "Microsoft Office",
     "Office 365",
 ]
-
+backtotop = true
 +++
 
 မနေ့ကရေးခဲ့တာကတော့ Windows 10 ကို Active လုပ်မလဲလို့ ရေးခဲ့ပြီးပြီဆိုတော့ ဒီနေ့တော့ ကျွန်တော် ရေးသွားမှာက Microsoft Office နဲ့ Office 365 ကို ဘယ်လို Active လုပ်ရမလဲဆိုတာပါပဲ။ ဘာ Software မှမသုံးပါပဲ command File တစ်ခုတည်းနဲ့လုပ်သွားမှာပဲဖြစ်ပါတယ်။ အကယ်လို့သာ Manual လုပ်ချင်ရင်လဲ အဆင်ပြေမှာပဲဖြစ်ပါတယ်။ နည်းလမ်းနှစ်ခုလုံးကိုတော့ ပြောပြပေးသွားပါ့မယ်။

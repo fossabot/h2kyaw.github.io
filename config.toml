@@ -6,14 +6,28 @@ DefaultContentLanguage = "my"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "harbor"
+disableKinds = ["404"]
 
 googleAnalytics = "UA-138756551-3"
 disqusShortName = "heinhtetkyaw"
 enableRobotsTXT = true
 canonifyURLs = true
 
-[Author]
+[params]
+  mainSections = ["post"]
+  favicon = "favicon.ico"
+  readingTime = true
+
   author = "Hein Htet Kyaw"
+  description = "You can read Kiddo's Blogs again, Extra you can watch Video Tutorials later too."
+
+  github = "https://github.com/h2kyaw"
+  facebook = "https://facebook.com/heinhtetkyaw.blog"
+  
+  ogimage = "/images/og.png"
+  images = ["/images/og.png"]
+  sitename = "K's V/Blog"
+  twitter = "@HeinHtetKyaw_"
 
 [permalinks]
 	post = "/:year/:filename/"
@@ -76,18 +90,6 @@ canonifyURLs = true
   name= "Twitter"
   url="https://www.linkedin.com/in/h2kyaw/"
   icon="fab fa-linkedin"
-
-[params]
-  mainSections = ["post"]
-  favicon = "favicon.ico"
-  readingTime = true
-  author = "Hein Htet Kyaw"
-  github = "https://github.com/h2kyaw"
-  facebook = "https://facebook.com/heinhtetkyaw.blog"
-  ogimage = "/images/og.png"
-  sitename = "K's V/Blog"
-  twitter = "@HeinHtetKyaw_"
-  description = "You can read Kiddo's Blogs again, Extra you can watch Video Tutorials later too."
 
 [params.logo]
   url = "icon.svg"

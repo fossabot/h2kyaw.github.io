@@ -2,6 +2,7 @@
 title = "Woocommerce States Places Dropdown"
 date = "2021-02-11T20:05:29+06:30"
 description = "Wordpress ရဲ့ Sates တွေ နေရာတွေ ကို Dropdown လုပ်ဖို့ ရှာနေတဲ့လူတွေအတွက် အဆင်ပြေမှာအမှန်ပါပဲ"
+images = ["/images/woocommerce-states-places-dropdown.gif"]
 tags = [
     "wordpress",
     "woocommerce",
@@ -12,6 +13,7 @@ categories = [
 ]
 series = ["Woocommerce"]
 aliases = ["wordpress-collection"]
+backtotop = "true"
 +++
 
 ဒီရက်ပိုင်း လုပ်ဖြစ်တဲ့အလုပ်တွေထဲက တစ်ခုလို့ပြောလို့ရတဲ့ ecommerce CMS တွေထဲကမှ တစ်ခုဖြစ်တဲ့ Woocommerce နဲ့ပတ်သက်တာကို စမ်းနေရင်းနဲ့ Website တစ်ခုတွေ့ပြီးကတည်းက လိုချင်နေခဲ့တာ ကြာခဲ့ပါပြီ။ ဒီနေ့တော့ ကိုယ်တိုင်လိုက်ရှာရင်း တွေ့တော့တွေ့တယ်မြန်မာနိုင်ငံအတွက် မရှိသေးတာနဲ့ နည်းနည်းအပင်ပန်းခံပြီးလုပ်ဖြစ်ခဲ့တာလေးကို အသေးစိတ်ဘယ်လို အသုံးပြုရမလဲဆိုတာကို ပြန်ရှင်းပြပေးမှာပဲဖြစ်ပါတယ်။

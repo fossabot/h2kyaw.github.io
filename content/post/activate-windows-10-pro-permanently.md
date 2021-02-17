@@ -2,6 +2,7 @@
 author = "Hein Htet Kyaw"
 title = "Activate Windows 10 Pro Permanently"
 date = "2021-02-12T22:08:58+06:30"
+images = ["/images/activate-windows-10-pro-permanently.png"]
 description = ""
 tags = [
     "Windows",
@@ -10,7 +11,7 @@ tags = [
 categories = [
     "Windows",
 ]
-
+backtotop = true
 +++
 
 Facebook ရဲ့ Ads တွေ တော်တော်များများထဲမှာ Window Activation လုပ်ဖို့အတွက် Key တွေ ရောင်းတဲ့အခါမှာ Crack Version တွေ ဘာတွေကပဲ Virus ကိုက်တာလိုလို ဘာလိုလိုရေးထားတာတွေများသားဆိုတော့ ကိုယ်သုံးတဲ့ သက်တမ်းတလျှောက်တော့ ဘာဆိုဘာမှကိုမဖြစ်ခဲ့ဖူးသေးတော့ သူတို့ပြောတဲ့ Window Active က app တွေနဲ့များဖြစ်နေမလားပေါ့ ...
