@@ -2,7 +2,7 @@
 author = "Hein Htet Kyaw"
 title = "Activate Office With KMS License Key"
 date = "2021-02-13T21:41:16+06:30"
-images = ["/images/open-cmd.png"]
+image = "/images/open-cmd.png"
 description = "ဒီအကြောင်းအရာလေးကတော့ Windows 10 မှာ Office တွေကို ဘယ်လို Activate လုပ်ရမလဲဆိုတာကို ရှင်းပြသွားမှာပဲဖြစ်ပါတယ်။"
 tags = [
     "Microsoft Office",
