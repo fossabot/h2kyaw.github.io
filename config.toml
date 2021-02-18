@@ -24,8 +24,9 @@ canonifyURLs = true
   github = "https://github.com/h2kyaw"
   facebook = "https://facebook.com/heinhtetkyaw.blog"
   
-  ogimage = "/images/og.png"
-  images = ["/images/og.png"]
+  ogimage = "/images/og.jpg"
+  images = ["/images/og.jpg"]
+  
   sitename = "K's V/Blog"
   twitter = "@HeinHtetKyaw_"
 
