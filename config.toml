@@ -29,6 +29,8 @@ canonifyURLs = true
   sitename = "K's V/Blog"
   twitter = "@HeinHtetKyaw_"
 
+  enableGoogleAnalytics = true
+
 [permalinks]
 	post = "/:year/:filename/"
 	page = "/:filename/"
