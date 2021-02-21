@@ -3,7 +3,7 @@ title: 'About Me'
 button: 'About me'
 description: 'Detail informations of Hein Htet Kyaw V/Blog'
 weight: 2
-disqus: true
+disable_comments: true
 ---
 
 My name is **Hein Htet Kyaw**. Currently I writes about Wordpresss and Other IT realted things in daily life of my Facing problems and General Knowledge to save as notes & share my Visions to other Peoples. I have the following qualities:
