@@ -1,7 +1,7 @@
 +++
 author = "Hein Htet Kyaw"
 title = "Generals Zero Hour Crash Fix"
-date = "2021-02-18T19:22:51+06:30"
+date = "2021-02-06T19:22:51+06:30"
 image = "/images/general_zh_compatibility.png"
 description = "Fixing Command & Conquer Generals Zero Hour Crach Error"
 tags = ["Games",]

@@ -1,7 +1,10 @@
 baseURL = "https://h2kyaw.github.io/"
 title = "K's V/Blog"
 paginate = 5
+
 languageCode = "my"
+languageName = "Myanmar"
+
 DefaultContentLanguage = "my"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -44,6 +47,13 @@ canonifyURLs = true
   name = "About"
   icon = "fas fa-user fa-lg"
   url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "ebooks"
+  name = "eBooks"
+  icon = "fas fa-book fa-lg"
+  url = "/ebooks/"
   weight = 3
 
 [[params.nav]]

@@ -1,7 +1,7 @@
 +++
 author = "Hein Htet Kyaw"
 title = "Data Hack Warp+ 1.1.1.1"
-date = "2021-02-10T16:35:04+06:30"
+date = "2021-02-02T16:35:04+06:30"
 image = "/images/Warp.jpg"
 description = "အင်တာနက်တွေ အပိတ်ခံရတဲ့အချိန်အတွင်းမှာ တွေ့ရှိခဲ့တဲ့ Warp+ VPN ကို Share မလုပ်ပဲ Bandwidth တိုးနည်းလမ်းလေးတစ်ခုအကြောင်းကို ပြန်ပြီး ရေးထားတာပဲဖြစ်ပါတယ်။"
 tags = [

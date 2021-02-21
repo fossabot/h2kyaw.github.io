@@ -1,8 +1,23 @@
 ---
 title: 'About Me'
 button: 'About me'
+description: 'Detail informations of Hein Htet Kyaw V/Blog'
 weight: 2
-disqus: false
+disqus: true
 ---
 
-နာမည်အရင်းကတော့ ဟိန်းထက်ကျော်ပဲဖြစ်ပါတယ်။ အခုလောလောဆယ်မှာတော့ Wordpress နဲ့ အခြားသောအရာများအကြောင်းကို လေ့လာနေပြီး ကြုံတဲ့အချိန်မှာတော့ နည်းပညာအကြောင်းအရာများကို ရေးသားပေးပါတယ်။ အဓိကထားရေးတဲ့အကြောင်းအရာတွေကတော့ လတ်တလော တွေ့တဲ့ နည်းပညာအသစ်အကြောင်းတွေရယ်၊ ယေယူယျ အခက်အခဲဖြစ်နိုင်တဲ့အရာတွေကို ရှာဖွေပြီး ရေးသားပေးနေချင်းပဲဖြစ်ပါတယ်။
+My name is **Hein Htet Kyaw**. Currently I writes about Wordpresss and Other IT realted things in daily life of my Facing problems and General Knowledge to save as notes & share my Visions to other Peoples. I have the following qualities:
+
+- **2008** - Computer A+
+- **2010** - Windows Special ( Office ) Course.
+- **2016** - Network / Internet Engineering, Administration & System Development.
+
+#### Educational Background
+
+- **2010** - Basic Education High School
+- **2013** - English Major (Distance)
+
+#### Social Connections ?
+
+- Follow me on [Facebook](https://fb.me/heinhtetkyaw.blog)
+- Follow me on [Twitter](https://twitter.com/HeinHtetKyaw_)
