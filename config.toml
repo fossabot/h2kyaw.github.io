@@ -16,6 +16,9 @@ disqusShortName = "heinhtetkyaw"
 enableRobotsTXT = true
 canonifyURLs = true
 
+[markup.goldmark.renderer]
+  unsafe= true
+  
 [params]
   mainSections = ["post"]
   favicon = "favicon.ico"
