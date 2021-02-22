@@ -13,13 +13,20 @@ My name is **Hein Htet Kyaw**. Currently I writes about Wordpresss and Other IT 
 {{< fa map-marked-alt >}}  &mdash; [Htaukkyant, Yangon, Myanmar (Burma), 11022](https://goo.gl/maps/KsnuQmQkzf5UF7hZ9)
 
 #### {{< fa book >}} Educational Background
-- **2010** &mdash; Basic Education High School
-- **2013** &mdash; English Major (University of Distance Education, Mandalay)
+- **2010** &mdash; No.4: Basic Education High School\
+{{< fa school >}} &mdash; Yezin, Zayartheri, Naypyitaw Union Territory
+- **2013** &mdash; English Major\
+{{< fa school >}} &mdash; University of Distance Education, Mandalay
 
 #### {{< fa award >}} Qualifications
-- **2008** &mdash; Computer A+
-- **2010** &mdash; Windows Special ( Office ) Course.
-- **2016** &mdash; Network / Internet Engineering, Administration & System Development.
+- **2008** &mdash; Computer A+\
+{{< fa certificate >}} MCG Training Group, Yezin
+- **2010** &mdash; Windows Special ( Office ) Course.\
+{{< fa certificate >}} MCG Training Group, Yezin
+- **2016** &mdash; Network / Internet Engineering, Administration & System Development.\
+{{< fa certificate >}} ICTmm (System & Networking Academy.)
+- **2019** &mdash; Master in Digital Marketing\
+{{< fa certificate >}} Escils (Online training program.)
 
 #### {{< fa users >}} Employment History
 - Kiddo Monster\
