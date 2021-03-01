@@ -2,14 +2,8 @@ baseURL = "https://h2kyaw.github.io/"
 title = "K's V/Blog"
 paginate = 5
 
-languageName = "Myanmar"
 languageCode = "my"
-
-[languages]
-  [languages.my]
-  languageName = "Myanmar"
-  languageCode = "my"
-  weight = 1
+languageName = "Myanmar"
 
 DefaultContentLanguage = "my"
 enableInlineShortcodes = true
@@ -118,3 +112,9 @@ canonifyURLs = true
   width = 50
   height = 50
   alt = "Logo"
+
+[languages]
+  [languages.my]
+  languageName = "Myanmar"
+  languageCode = "my"
+  weight = 1
