@@ -4,8 +4,8 @@ title = "Personal Website is UP Again!"
 date = "2021-02-01"
 description = "Personal Website is Up Again dude this time."
 tags = [
-    "personal",
-    "general",
+    "Personal",
+    "General",
 ]
 categories = [
     "Personal",

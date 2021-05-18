@@ -65,7 +65,7 @@ Chairman | May 2019 - Present\
 
 - ထေရဝါဒ ဓမ္မပြန့်ပွားရေး နှင့် နာရေးကူညီမှုအသင်း "လူငယ်"\
 Volenteer | Jan 2013 - Present\
-{{< fa map-marked-alt >}} &mdash; [Pyinmana](https://goo.gl/maps/sWGSu2PtSHs2iPNq8)
+{{< fa map-marked-alt >}} &mdash; [နေပြည်တော်၊ ပျဉ်းမနားမြို့နယ်၊ လည်တီကျောင်း](https://goo.gl/maps/sWGSu2PtSHs2iPNq8)
 
 #### {{< fa language >}} Languages
 - 🇲🇲 **Myanmar** &mdash; Elementary
