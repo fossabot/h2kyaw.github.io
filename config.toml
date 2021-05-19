@@ -37,6 +37,7 @@ canonifyURLs = true
   twitter = "@HeinHtetKyaw_"
 
   enableGoogleAnalytics = true
+  gtm = "GTM-55RVH82"
 
 [permalinks]
 	post = "/:year/:filename/"
@@ -62,7 +63,7 @@ canonifyURLs = true
 [[params.nav]]
   identifier = "tags"
   name = "Tags"
-  icon = "fas fa-tag fa-lg"
+  icon = "fas fa-tags fa-lg"
   url = "tags"
   weight = 3
 
@@ -78,6 +79,13 @@ canonifyURLs = true
   name = "Archives"
   icon = "fas fa-archive fa-lg"
   url = "archives"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tools"
+  name = "Tools"
+  icon = "fas fa-tools fa-lg"
+  url = "tools"
   weight = 3
 
 [[params.nav]]
