@@ -10,6 +10,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "harbor"
 disableKinds = ["404"]
+enableEmoji = true
 
 googleAnalytics = "UA-138756551-3"
 disqusShortName = "heinhtetkyaw"
@@ -18,7 +19,7 @@ canonifyURLs = true
 
 [markup.goldmark.renderer]
   unsafe= true
-  
+
 [params]
   mainSections = ["post"]
   favicon = "favicon.ico"
@@ -29,10 +30,10 @@ canonifyURLs = true
 
   github = "https://github.com/h2kyaw"
   facebook = "https://facebook.com/heinhtetkyaw.blog"
-  
+
   ogimage = "/images/og.jpg"
   images = ["/images/og.jpg"]
-  
+
   sitename = "K's V/Blog"
   twitter = "@HeinHtetKyaw_"
 
