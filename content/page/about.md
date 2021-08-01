@@ -6,7 +6,7 @@ weight: 2
 disable_comments: true
 ---
 
-My name is **Hein Htet Kyaw**. Currently I writes about Wordpresss and Other IT realted things in daily life of my Facing problems and General Knowledge to save as notes & share my Visions to other Peoples.
+My name is **Hein Htet Kyaw**. Currently, I write about WordPress and Other IT-related things in the daily life of my Facing problems and General Knowledge to save as notes & share my Visions with other Peoples.
 
 {{< fa phone >}} &mdash; [+959252113611](tel:+959252113611)\
 {{< fa at >}} &mdash; [mr.kiddomonster@gmail.com](mailto:mr.kiddomonster@gmail.com)\
