@@ -2,6 +2,7 @@ baseURL = "https://h2kyaw.github.io/"
 title = "K's V/Blog"
 paginate = 7
 theme = "harbor"
+themesDir = "themes"
 
 languageCode = "my"
 languageName = "Myanmar"
@@ -140,11 +141,13 @@ canonifyURLs = true
   weight = 1
 
 [module]
+  [[module.imports]]
+    path = "github.com/jakejarvis/hugo-mod-twemoji"
   [[module.mounts]]
     source = "static"
     target = "static"
-  [[module.mounts]]
-    source = "layouts"
-    target = "layouts"
   [[module.imports]]
-    path = "github.com/jakejarvis/hugo-mod-twemoji"
+    path = "github.com/twitter/twemoji"
+    [[module.imports.mounts]]
+          source = "assets/svg"
+          target = "static/twemoji/svg"
