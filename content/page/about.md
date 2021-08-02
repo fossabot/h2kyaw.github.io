@@ -68,9 +68,13 @@ Volenteer | Jan 2013 - Present\
 {{< fa map-marked-alt >}} &mdash; [နေပြည်တော်၊ ပျဉ်းမနားမြို့နယ်၊ လည်တီကျောင်း](https://goo.gl/maps/sWGSu2PtSHs2iPNq8)
 
 #### {{< fa language >}} Languages
+<div class="languages" markdown=1>
+
 - 🇲🇲 **Myanmar** &mdash; Elementary
 - 🇺🇸 **English** &mdash; Advanced
 - 🇯🇵 **Japan** &mdash; Still-Learning
+
+</div>
 
 #### {{< fa id-badge>}} Social Contact
 - {{< fa fab facebook-square >}} Search: [Kiddo Monster](https://fb.me/heinhtetkyaw.blog)
@@ -81,7 +85,7 @@ Volenteer | Jan 2013 - Present\
 
 #### {{< fa brain >}} Skills
 
-<div class="list" markdown=1>
+<div class="skills" markdown=2>
 
 - HTML <div class="progress-frame"><div class="progress-bar"><span class="progress-bar-fill" title="70%" style="width: 70%;"></span></div></div>
 - CSS3 <div class="progress-frame"><div class="progress-bar"><span class="progress-bar-fill" title="50%" style="width: 50%;"></span></div></div>
