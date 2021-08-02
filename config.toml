@@ -27,23 +27,22 @@ canonifyURLs = true
   alt = "Logo"
 
 [params]
-  mainSections = ["post"]
   favicon = "favicon.ico"
-  readingTime = true
-
-  customCSS = ["/css/custom.css"] # in case you use `/static/css/custom.css`
-
+  sitename = "K's V/Blog"
   author = "Hein Htet Kyaw"
   description = "You can read Kiddo's Blogs again, Extra you can watch Video Tutorials later too."
 
+  twitter = "@HeinHtetKyaw_"
   github = "https://github.com/h2kyaw"
   facebook = "https://facebook.com/heinhtetkyaw.blog"
 
   ogimage = "/images/og.jpg"
   images = ["/images/og.jpg"]
 
-  sitename = "K's V/Blog"
-  twitter = "@HeinHtetKyaw_"
+  mainSections = ["post"]
+  readingTime = true
+
+  customCSS = ["/css/custom.css"] # in case you use `/static/css/custom.css`
 
   enableGoogleAnalytics = true
   gtm = "GTM-55RVH82"
@@ -96,13 +95,6 @@ canonifyURLs = true
   weight = 3
 
 [[params.nav]]
-  identifier = "tools"
-  name = "Tools"
-  icon = "fas fa-tools fa-lg"
-  url = "tools"
-  weight = 3
-
-[[params.nav]]
   identifier = "search"
   name = "Search"
   icon = "fas fa-search fa-lg"
@@ -136,9 +128,13 @@ canonifyURLs = true
 
 [languages]
   [languages.my]
-  languageName = "Myanmar"
-  languageCode = "my"
-  weight = 1
+    languageName = "Myanmar"
+    languageCode = "my"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 2
 
 [module]
   [[module.imports]]
