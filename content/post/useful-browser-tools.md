@@ -4,9 +4,9 @@ title = "Useful Browser Tools"
 image = "/images/Inspect_Elements.png"
 date = "2021-03-01T19:36:56+06:30"
 description = "Useful Browser tools for take snapshot or other useful things"
-tags = ["Tools", "Browser",]
-categories = ["Tools", "Browser",]
-series = ["Browser"]
+tags = ["Tools"]
+categories = ["Tools"]
+series = ["Tools"]
 +++
 
 Browser တွေဖြစ်တဲ့ Google Chrome, Mozilla Firefox, Opera နှင့်အခြားသော Browser တွေ တော်တော်များများ သုံးနေကြပါတယ်။ အဲ့ဒီ ထဲမှာမှ အသုံးဝင်တဲ့ Tool လေးတွေအကြောင်းနဲ့ အခြားသော Third Party Tool တွေ ထည့်သွင်းစရာမလိုတဲ့အရာတွေ အကြောင်းလေးပေါ့။
@@ -19,11 +19,11 @@ Browser တွေဖြစ်တဲ့ Google Chrome, Mozilla Firefox, Opera န
 
 Console အကွက်မှာတော့ Javascript ကို run လို့ရမှာဖြစ်ပြီး အခြားသော code တွေကို အစမ်းသဘောမျိုးလုပ်ချင်ရင်လဲ လုပ်လို့ရပါသေးတယ်။ ဟိုအရင်အချိန်တွေတုန်းကတော့ Elements မှာ အချို့သော Website တွေ Hidden Tag တွေကို ဖော်ထုတ်ပြီး Database အတွင်းကိုလှမ်းထည့်တာမျိုးတွေလဲ လုပ်လို့ရပါတယ်။ Facebook မှာ ဘယ်သူမှ လာ Add Friend လုပ်လို့မရအောင် လုပ်ထားတာမျိုးတွေ ဘာတွေပေါ့။
 
-Sources အတွက် အသုံးဝင်ပုံကတော့ Website ထဲမှာ ဘာ Data တွေကို Link လုပ်ထားသလဲ ဘာ Script တွေကို Link လုပ်ထားသလဲ ဘာဓါတ်ပုံတွေ သုံးထားသလဲဆိုတာကို ကြည့်လို့ရမှာမျိုးပဲဖြစ်ပါတယ်။ 
+Sources အတွက် အသုံးဝင်ပုံကတော့ Website ထဲမှာ ဘာ Data တွေကို Link လုပ်ထားသလဲ ဘာ Script တွေကို Link လုပ်ထားသလဲ ဘာဓါတ်ပုံတွေ သုံးထားသလဲဆိုတာကို ကြည့်လို့ရမှာမျိုးပဲဖြစ်ပါတယ်။
 
 ![Inspect Sources](/images/Inspect_Sources.png)
 
-အဲ့ထဲမှာ မြင်နေရတဲ့ ဒီရက်ပိုင်း အတော်အသုံးပြုဖြစ်တဲ့ Tool တစ်ခုကတော့ **Run Command** နဲ့ Screenshot ရိုက်တာပဲဖြစ်ပါတယ်။ Run Command ကိုတော့ <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> နဲ့ဖွင့်နိုင်ပြီး ကျွန်တော် သုံးတဲ့ Command ကတော့ Node တစ်ခုခြင်းကို Screenshot ရိုက်တာပဲဖြစ်ပါတယ်။ 
+အဲ့ထဲမှာ မြင်နေရတဲ့ ဒီရက်ပိုင်း အတော်အသုံးပြုဖြစ်တဲ့ Tool တစ်ခုကတော့ **Run Command** နဲ့ Screenshot ရိုက်တာပဲဖြစ်ပါတယ်။ Run Command ကိုတော့ <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> နဲ့ဖွင့်နိုင်ပြီး ကျွန်တော် သုံးတဲ့ Command ကတော့ Node တစ်ခုခြင်းကို Screenshot ရိုက်တာပဲဖြစ်ပါတယ်။
 
 ![Inspect Node Command](/images/Inspect_Node-cmd.png)
 

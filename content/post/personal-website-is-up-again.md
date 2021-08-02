@@ -3,14 +3,8 @@ author = "Hein Htet Kyaw"
 title = "Personal Website is UP Again!"
 date = "2021-02-01"
 description = "Personal Website is Up Again dude this time."
-tags = [
-    "Personal",
-    "General",
-]
-categories = [
-    "Personal",
-    "General",
-]
+tags = [ "Personal"]
+categories = [ "Personal" ]
 series = ["Personal"]
 aliases = ["migrate-from-wordpress"]
 backtotop = "true"

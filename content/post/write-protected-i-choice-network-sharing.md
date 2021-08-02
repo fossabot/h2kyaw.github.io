@@ -4,9 +4,9 @@ title = "Write Protected? I Choice Network Sharing"
 image = "/images/network-sharing.png"
 date = "2021-04-19T22:47:24+06:30"
 description = "Memory Stick ထည့်ပြီး File တွေးကူးဖို့လုပ်တဲ့အခါမှာ Write Protected ဆိုပြီး ပေါ်လာရာကနေ ဒီ Post အကြောင်းဖြစ်လာရတော့တယ်။"
-tags = ["General", "Networking"]
-categories = ["General", "Networking"]
-series = ["General Knowledge"]
+tags = ["Networking"]
+categories = ["Networking"]
+series = ["Networking"]
 +++
 
 အင်တာနက်တွေ မရတဲ့အခုလိုအချိန်မှာ ဟိုလူအကူအညီတောင်းရ ဒီလူအကူအညီတောင်းရနဲ့ တော်တော်တော့ တိုင်ပတ်တဲ့အချိန်၊ Offline ဖြစ်နေတာ ကိစ္စမရှိပေမယ့် အချို့သော အရာလေးတွေ လိုအပ်တာတွေကို Download လုပ်ဖို့အတွက်ကတော့ အင်တာနက်ကတော့ လိုအပ်လာပြီ။ ဒီလိုအဆင်မပြေတဲ့အချိန် အဆင်ပြေပြီး သုံးလို့ရတဲ့လူတွေကို Download လုပ်ခိုင်းရင်းနဲ့ သူတို့ ပြန်ပေးတဲ့အခါမှာ Company Computer ဖြစ်တဲ့အတွက်ကြောင့် Company Policy တွေအရ Data တွေ ကူးယူခွင့်ကို ပိတ်ထားတတ်ကြတယ်။ ဒါလဲ သိပ်ပြီး ကိစ္စတော့မရှိလှပါဘူး။

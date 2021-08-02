@@ -4,15 +4,9 @@ title = "Activate Office With KMS License Key"
 date = "2021-02-05T21:41:16+06:30"
 image = "/images/open-cmd.png"
 description = "ဒီအကြောင်းအရာလေးကတော့ Windows 10 မှာ Office တွေကို ဘယ်လို Activate လုပ်ရမလဲဆိုတာကို ရှင်းပြသွားမှာပဲဖြစ်ပါတယ်။"
-tags = [
-    "Microsoft Office",
-    "Office 365",
-]
-categories = [
-    "Microsoft Office",
-    "Office 365",
-]
-series = ["Windows"]
+tags = ["Office"]
+categories = ["Office"]
+series = ["Office"]
 backtotop = true
 +++
 
@@ -90,7 +84,7 @@ cscript ospp.vbs /act
 
 ![Office.cmd File Virus Alert](/images/office-activation-virus-alert.png)
 
-Notepad ကိုဖွင့်လိုက်ပါ ပြီးရင်အောက်က code တွေကို အကုန်ကူးယူလိုက်ပါ။ 
+Notepad ကိုဖွင့်လိုက်ပါ ပြီးရင်အောက်က code တွေကို အကုန်ကူးယူလိုက်ပါ။
 
 ```batch
 @echo off

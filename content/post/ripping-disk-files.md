@@ -4,8 +4,8 @@ title = "Ripping Disk Files"
 image = "/images/rip_1_KB.png"
 date = "2021-02-07T04:19:50+06:30"
 description = "Ripping files in the Audio CD Disk"
-tags = ["Ripping", "Software",]
-categories = ["Ripping", "Software",]
+tags = ["Software",]
+categories = ["Software",]
 series = ["Software"]
 +++
 

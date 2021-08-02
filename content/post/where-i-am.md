@@ -4,8 +4,8 @@ title = "Where I Am?"
 image = "/images/icaniwill.png"
 date = "2021-07-06T04:47:31+06:30"
 description = "ငါဘယ်မှာလဲ ဘာလုပ်ရမှာလဲ ဘာလုပ်သင့်လဲ ဘာလုပ်ရင်ကောင်းမလဲ?"
-tags = ["Life Knowledge", "What Should We Do"]
-categories = ["Life Knowledge", "What Should We Do"]
+tags = ["Life Knowledge"]
+categories = ["Life Knowledge"]
 series = ["Life Knowledge"]
 +++
 
