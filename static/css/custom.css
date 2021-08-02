@@ -87,17 +87,17 @@ footer hr {
   transition: width 500ms ease-in-out;
 }
 
-.list>ul {
+.skills>ul {
   list-style-type: none;
   padding-left: 20px;
 }
 
-.list>ul>li {
+.skills>ul>li {
   position: relative;
   padding-left: 25px;
 }
 
-.list>ul>li:before {
+.skills>ul>li:before {
   content: '';
   top: 0;
   left: 0;
@@ -106,29 +106,34 @@ footer hr {
   font-family: "Font Awesome 5 Brands";
 }
 
-.list>ul>li:nth-child(1)::before {
+.skills>ul>li:nth-child(1)::before {
   content: '\f13b';
 }
 
-.list>ul>li:nth-child(2)::before {
+.skills>ul>li:nth-child(2)::before {
   content: '\f13c';
 }
 
-.list>ul>li:nth-child(3)::before {
+.skills>ul>li:nth-child(3)::before {
   content: '\f457';
 }
 
-.list>ul>li:nth-child(4)::before {
+.skills>ul>li:nth-child(4)::before {
   content: '\f3bd';
 }
 
-.list>ul>li:nth-child(5)::before {
+.skills>ul>li:nth-child(5)::before {
   content: '\f09b';
 }
 
-.list>ul>li:nth-child(6)::before {
+.skills>ul>li:nth-child(6)::before {
   content: '\f19a';
 }
+
+.languages>ul {
+  list-style-type: none;
+}
+
 
 img.emoji {
   height: 1em;
