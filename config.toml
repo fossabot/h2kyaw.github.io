@@ -1,4 +1,4 @@
-baseURL = "https://h2kyaw.github.io/engine"
+baseURL = "https://h2kyaw.github.io/"
 title = "K's V/Blog"
 paginate = 7
 theme = "harbor"
