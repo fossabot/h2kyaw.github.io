@@ -19,6 +19,28 @@
   text-shadow: none;
 }
 
+blockquote {
+  position: relative;
+  padding-left: 30px !important;
+  font-weight: 900;
+  color: #2560ff !important;
+  padding: 1em !important;
+  margin: 1em;
+  border: none !important;
+  max-width: 33em;
+  font-size: 24px;
+}
+blockquote:before {
+  content: "❝";
+  font-family: serif;
+  position: absolute;
+  right: 100%;
+  font-size: 120px;
+  line-height: 0px;
+  top: 50px;
+  color: #78e08f;
+}
+
 img[alt$=">"] {
   float: right;
 }
