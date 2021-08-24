@@ -133,15 +133,15 @@ author = "Hein Htet Kyaw"
   url="https://www.keybase.com/heinhtetkyaw"
   icon="fab fa-keybase"
 
-[languages]
-  [languages.my]
-    languageName = "မြန်မာ"
-    languageCode = "my"
-    weight = 1
-  [languages.en]
-    languageName = "English"
-    languageCode = "en-us"
-    weight = 2
+# [languages]
+#   [languages.my]
+#     languageName = "မြန်မာ"
+#     languageCode = "my"
+#     weight = 1
+#   [languages.en]
+#     languageName = "English"
+#     languageCode = "en-us"
+#     weight = 2
 
 [module]
   [[module.imports]]
