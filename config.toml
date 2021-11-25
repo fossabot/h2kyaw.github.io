@@ -17,6 +17,8 @@ googleAnalytics = "UA-138756551-3"
 disqusShortName = "heinhtetkyaw"
 enableRobotsTXT = true
 canonifyURLs = true
+toc = true
+more = true
 # uglyurls = true
 
 author = "Hein Htet Kyaw"
@@ -48,6 +50,8 @@ author = "Hein Htet Kyaw"
 
   mainSections = ["post"]
   readingTime = true
+  toc = true
+  more = true
 
   customCSS = ["/css/custom.css"] # in case you use `/static/css/custom.css`
 
