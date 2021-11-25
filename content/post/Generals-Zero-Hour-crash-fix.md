@@ -16,7 +16,7 @@ backtotop = true
 
 ကျွန်တော် ဒီ Game ကိုတော့ Torrent Website တစ်ခုကနေ ရှာဒေါင်းပြီး ဆော့ရတော့မယ်ဆိုတဲ့ မျှော်လင့်တကြီး ဒေါင်းပြီးဆော့ခဲ့တာပေါ့။ ဒါပေမယ့် ပြဿနာက ဂိမ်းထဲကို ဝင်ရင်ပဲဖြစ်ဖြစ်၊ ဂိမ်းကဆော့နေရင်းပဲဖြစ်ဖြစ် နည်းနည်း Lag ပြီး Crash ဖြစ်သွားတယ်။ Torrent ထဲမှာပါဝင်တဲ့ Fix တဲ့ နည်းတွေကို စမ်းကြည့်ပေမယ့် လုံးဝအဆင်မပြေခဲ့ဘူး။ ဆော့လို့ကောင်းနေပြီ ဂိမ်းထဲဝင်ပြီဆိုရင် ဇာတ်လမ်းက စပြီလို့တောင် ပြောရမယ်။ ဆိုတော့ ကြာတော့ ခွီးလာတာအမှန်ပဲ။
 
-![Command & Conquer Generals Zero Hour Crash Error](/images/general_zh.png)
+![Command & Conquer Generals Zero Hour Crash Error ><](/images/general_zh.png)
 
 ဒါနဲ့ပဲ Google မှာ ရှာရင်းဖွေရင်းနဲ့ တွေ့ခဲ့တာလေးကတော့ အမျိုးမျိုးပါပဲ။
 
@@ -34,7 +34,7 @@ backtotop = true
 ```ini
 AntiAliasing = 2
 BuildingOcclusion = yes
-DrawScrollAnchor = 
+DrawScrollAnchor =
 DynamicLOD = yes
 ExtraAnimations = yes
 GameSpyIPAddress = 127.0.0.1
@@ -44,7 +44,7 @@ IPAddress = 127.0.0.1
 IdealStaticGameLOD = High
 LanguageFilter = false
 MaxParticleCount = 2000
-MoveScrollAnchor = 
+MoveScrollAnchor =
 MusicVolume = 55
 Resolution = 1024 768
 Retaliation = yes
@@ -69,7 +69,7 @@ VoiceVolume = 70
 
 2. ဒုတိယနည်းလမ်း
 
-ဒုတိယနည်းလမ်းကတော့ Desktop ပေါ်မှာရှိတဲ့ Shortcut ကို Right Click ထောက်ပြီး **Properties** ကိုနှိပ်ပေးရပါမယ်။ **Compatibility Tab** ကိုသွားပြီး **Run compatibility troubleshooter** ကိုနှိပ်ကြည့်လိုက်တာကလဲ Manual Fix ဖို့အတွက် Readme File ထဲမှာပြောထားတာနဲ့တူတူပဲဆိုတော့၊ **Compatibility mode** > **Run this program in compatibility mode for:** ကိုအမှန်ခြစ်ပြီး **Windows XP (Service Pack 2 or 3)** ကိုရွေးချယ်ပေးရပါမယ်။ ပြီးရင်တော့ Okay ပေါ့။ 
+ဒုတိယနည်းလမ်းကတော့ Desktop ပေါ်မှာရှိတဲ့ Shortcut ကို Right Click ထောက်ပြီး **Properties** ကိုနှိပ်ပေးရပါမယ်။ **Compatibility Tab** ကိုသွားပြီး **Run compatibility troubleshooter** ကိုနှိပ်ကြည့်လိုက်တာကလဲ Manual Fix ဖို့အတွက် Readme File ထဲမှာပြောထားတာနဲ့တူတူပဲဆိုတော့၊ **Compatibility mode** > **Run this program in compatibility mode for:** ကိုအမှန်ခြစ်ပြီး **Windows XP (Service Pack 2 or 3)** ကိုရွေးချယ်ပေးရပါမယ်။ ပြီးရင်တော့ Okay ပေါ့။
 
 1. **Desktop Shortcut**
 2. **Right Click**
@@ -81,7 +81,7 @@ VoiceVolume = 70
 
 ဆိုပြီးအဆင့်ဆင့် လုပ်ဆောင်သွားရမှာပဲဖြစ်ပါတယ်။
 
-![Change compatibility Mode](/images/general_zh_compatibility.png)
+![Change compatibility Mode ><](/images/general_zh_compatibility.png)
 
 ဒီနည်းလမ်းတွေနဲ့ အဆင်ပြေသွားလားဆိုရင်တော့ အဆင်ပြေသွားတာမျိုးမရှိပါဘူး။ နောက်တစ်နည်းအနေနဲ့ကတော့ Graphic Card Control Panel ထဲကိုဝင်ပြီး **Antialiasing** တွေကို ဝင်ပြင်ကြည့်ပေမယ့် မထူးခြားတဲ့ Result ပဲ တွေ့နေရတာနဲ့ အဲ့အဆင့်ကိုတော့ မရေးပေးနေတော့ပါဘူး။
 
