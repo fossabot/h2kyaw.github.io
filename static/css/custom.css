@@ -174,3 +174,42 @@ img.emoji {
   width: auto !important;
   max-width: 100%;
 }
+
+.social>ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.social>ul>li {
+  position: relative;
+  padding-left: 25px;
+}
+
+.social>ul>li:before {
+  content: '';
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  position: absolute;
+  font-family: "Font Awesome 5 Brands";
+}
+
+.social>ul>li:nth-child(1)::before {
+  content: '\f39e';
+}
+
+.social>ul>li:nth-child(2)::before {
+  content: '\f099';
+}
+
+.social>ul>li:nth-child(3)::before {
+  content: '\f0e1';
+}
+
+.social>ul>li:nth-child(4)::before {
+  content: '\f09b';
+}
+
+.social>ul>li:nth-child(5)::before {
+  content: '\f167';
+}
