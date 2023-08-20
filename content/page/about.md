@@ -77,11 +77,16 @@ Volenteer | Jan 2013 - Present\
 </div>
 
 #### {{< fa id-badge>}} Social Contact
-- {{< fa fab facebook-square >}} Search: [Kiddo Monster](https://fb.me/heinhtetkyaw.blog)
-- {{< fa fab twitter-square >}} Search: [Hein Htet Kyaw](https://twitter.com/HeinHtetKyaw_)
-- {{< fa fab linkedin >}} Search: [Hein Htet Kyaw](https://www.linkedin.com/in/h2kyaw/)
-- {{< fa fab github >}} Search: [Hein Htet Kyaw](https://github.com/h2kyaw)
-- {{< fa fab youtube >}} Search: [Hein Htet Kyaw](https://www.youtube.com/channel/UCsxb9mQZlUeNuLZvF_ctyIA)
+
+<div class="social" markdown=2>
+
+- [Kiddo Monster](https://fb.me/heinhtetkyaw.blog)
+- [Hein Htet Kyaw](https://twitter.com/HeinHtetKyaw_)
+- [Hein Htet Kyaw](https://www.linkedin.com/in/h2kyaw/)
+- [Hein Htet Kyaw](https://github.com/h2kyaw)
+- [Hein Htet Kyaw](https://www.youtube.com/@heinhtetkyaw279)
+
+</div>
 
 #### {{< fa brain >}} Skills
 
