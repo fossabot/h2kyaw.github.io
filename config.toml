@@ -105,12 +105,12 @@ author = "Hein Htet Kyaw"
   url = "/page/archives"
   weight = 3
 
-[[params.nav]]
-  identifier = "search"
-  name = "Search"
-  icon = "fas fa-search fa-lg"
-  url = "search"
-  weight = 3
+# [[params.nav]]
+#  identifier = "search"
+#  name = "Search"
+#  icon = "fas fa-search fa-lg"
+#  url = "search"
+#  weight = 3
 
 [[params.social]]
   name= "Facebook"
