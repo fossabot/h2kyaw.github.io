@@ -147,14 +147,3 @@ author = "Hein Htet Kyaw"
 #     languageCode = "en-us"
 #     weight = 2
 
-[module]
-  [[module.imports]]
-    path = "github.com/jakejarvis/hugo-mod-twemoji"
-  [[module.mounts]]
-    source = "static"
-    target = "static"
-  [[module.imports]]
-    path = "github.com/twitter/twemoji"
-    [[module.imports.mounts]]
-          source = "assets/svg"
-          target = "static/twemoji/svg"
