@@ -153,3 +153,10 @@ author = "Hein Htet Kyaw"
   lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
   publishDate = ['publishdate', 'pubdate', 'published', 'date']
 
+[security]
+  [security.exec]
+    osEnv = '(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|HOME|SSH_AUTH_SOCK)$'
+    
+[module]
+[[module.imports]]
+  path = "github.com/jakejarvis/hugo-mod-twemoji"
