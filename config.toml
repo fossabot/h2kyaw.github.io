@@ -1,4 +1,4 @@
-baseURL = "https://h2kyaw.github.io/"
+baseURL = "https://ksvblog.site/"
 title = "K's V/Blog"
 paginate = 7
 theme = "harbor"
@@ -152,3 +152,4 @@ author = "Hein Htet Kyaw"
   expiryDate = ['expirydate', 'unpublishdate']
   lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
   publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
