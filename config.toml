@@ -175,8 +175,3 @@ author = "Hein Htet Kyaw"
   [[module.mounts]]
     source = "layouts"
     target = "layouts"
-  [[module.imports]]
-    path = "github.com/jakejarvis/hugo-mod-twemoji"
-    [[module.imports.mounts]]
-      source = "static"
-      target = "static"
