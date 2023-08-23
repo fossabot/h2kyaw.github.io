@@ -48,7 +48,7 @@ author = "Hein Htet Kyaw"
   ogimage = "/images/og.jpg"
   images = ["/images/og.jpg"]
 
-  mainSections = ["post"]
+  mainSections = ["posts"]
   readingTime = true
   toc = true
   more = true
@@ -110,12 +110,12 @@ author = "Hein Htet Kyaw"
   url = "/page/archives"
   weight = 3
 
-# [[params.nav]]
-#  identifier = "search"
-#  name = "Search"
-#  icon = "fas fa-search fa-lg"
-#  url = "search"
-#  weight = 3
+[[params.nav]]
+  identifier = "search"
+  name = "Search"
+  icon = "fas fa-search fa-lg"
+  url = "/page/search"
+  weight = 3
 
 [[params.social]]
   name= "Facebook"
