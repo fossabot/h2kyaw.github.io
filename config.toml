@@ -64,7 +64,7 @@ author = "Hein Htet Kyaw"
     copyrightFirstYear = 2012
 
 [permalinks]
-	post = "/post/:year/:filename/"
+	posts = "/post/:year/:filename/"
 	page = "/page/:filename/"
 
 [outputs]
