@@ -35,6 +35,16 @@
         ,
             {
                 "id": 3,
+                "href": "https://ksvblog.site/post/2023/hyper-git-terminal-windows-10/",
+                "title": "Hyper + Git Terminal Windows 10",
+                "section": "posts",
+                "date" : "2023.08.23",
+                "body": "Windows ပြန်တင်ပြီးတော့ Clean Installation တွေလုပ်လိုက်တော့ စိတ်ထဲ Command Prompt တစ်ခုကို ကောင်းကောင်းသုံးချင်လာတော့တယ်။ Customize လည်းလုပ်လို့ရ၊ Open Source သဘောမျိုးလည်းဖြစ်တာမျိုးရှာရင်းနဲ့ပဲ Hyper ကို တွေ့မိတော့တယ်။ အရင်ကတော့ cmder နဲ့ zsh ကိုသုံးပေမယ့် နောက်ပိုင်း အီလာတာနဲ့ အသစ်ရှာရင်း ဒီနေ့တော့ Hyper ကိုတွေ့တာနဲ့ နည်းနည်းလေး Customize ချင်လာတာနဲ့ပဲ ဒီ Content လေးတစ်ခုရသွားပါတော့တယ်ပေါ့။ အစောပိုင်း လောဘကြီးပြီးတော့ Content အရှည်ကြီးရေးချင်တာဆိုပေမယ့် content တွေခွဲပြီး Customize လှလှလေးပဲ လုပ်သွားတော့မယ်။\nFresh installed ဖြစ်တဲ့အညီအကုန်လုံးကိုတော့ လုံးဝ အသေးစိတ်ပဲ ပြောပြပေးသွားပါတော့မယ်။ ပထမဦးဆုံး app ကို Download လုပ်ဖို့ဖြစ်တဲ့အတွက်ကြောင့် မူရင်း Website မှာပဲ Download သွားလုပ်လိုက်ပါ။\nhyper.is nodejs git bash Download လုပ်ပြီးတော့ Installation တွေပြီးသွားရင်တော့ command line တွေကို မသိတဲ့အခါမျိုးရှိတတ်ပါတယ်၊ အဲ့ဒါအတွက်ကတော့ Hyper\u0026rsquo;s Github Installation Method အတိုင်းပဲ လုပ်သွားရင် အဆင်ပြေပါတယ်။ အဲ့ဒါကတော့\nchoco install hyper ဆိုပြီး Powershell Administration ကနေပြီးတော့ Installation လုပ်သွားရမှာပဲဖြစ်ပါတယ်။ ပြီးရင်တော့\nnpm install --global yarn yarn global add windows-build-tools နဲ့လိုအပ်တာတွေကို Installed လုပ်ထားဖို့လိုအပ်ပါလိမ့်မယ်။ Git Bash ကိုလည်း Installed လုပ်ပြီးသွားရင်တော့ Hyper Program ကိုဖွင့်ပြီး Ctrl + , နဲ့ Configure file ကိုဖွင့်လိုက်ပါ။ ပြီးရင်တော့\n// - Example: `C:\\\\cygwin64\\\\bin\\\\bash.exe` shell: \u0026#39;\u0026#39;, // for setting shell arguments (i.e. for using interactive shellArgs: `[\u0026#39;-i\u0026#39;]`) // by default `[\u0026#39;--login\u0026#39;]` will be used shellArgs: [\u0026#39;--login\u0026#39;], // for environment variables env: {}, အစား\n// if you\u0026#39;re using powershell, make sure to remove the `--login` below shell: \u0026#34;C:\\\\Program Files\\\\Git\\\\git-cmd.exe\u0026#34;, // for setting shell arguments (i.e. for using interactive shellArgs: [\u0026#39;-i\u0026#39;]) // by default [\u0026#39;--login\u0026#39;] will be used shellArgs: [\u0026#34;--command=usr/bin/bash.exe\u0026#34;, \u0026#34;-l\u0026#34;, \u0026#34;-i\u0026#34;], // for environment variables env: { TERM: \u0026#34;cygwin\u0026#34; }, ကိုရှာပြီးတော့ ဆိုပြီးပြောင်းလိုက်ပါ။ ဘာကြောင့်လဲဆိုတော့ Customize ကောင်းကောင်းလုပ်ဖို့အတွက်ဆိုရင်တော့ Windows Default Command Prompt က အရမ်းကြီး customize လို့မကောင်းပဲ\nMicrosoft Windows [Version 10.0.19045.3324] (c) Microsoft Corporation. All rights reserved. C:\\Users\\UserName\u0026gt; ဆိုပြီး ပြန်ပေါ်နေလို့ပါ။ အဲ့ဒါပြီးသွားရင်တော့ နည်းနည်းလေး ထပ်ပြီးလုပ်သင့်တာကတော့ C:\\Users\\UserName အောက်မှာပဲ bashrc file လေး create လုပ်ပေးဖို့အတွက်ပါပဲ။ ဒါမှလည်း နောက်အရာတွေအတွက် Customize လုပ်ပြီး hyper ကို ကောင်းကောင်း customize လုပ်လို့ရမှာပါ။\ncd ~ \u0026amp;\u0026amp; touch .bashrc အပေါ်က နည်းအတိုင်း သေချာ Installed လုပ်ခဲ့ပြီးပြီဆိုရင်တော့ plugin တစ်ခုကို Install လုပ်ကြည့်လိုက်ပါ့မယ်။\nhyper i verminal verminal installed successfully! ဆိုရင်တော့ Hyper ကောင်းကောင်းအလုပ်လုပ်သွားပြီပဲဖြစ်ပါတယ်။ ပြီးရင်တော့ Hyper Terminal ထဲဝင်ပြီး Tools \u0026gt; View \u0026gt; Reload // Full Reload ကိုလုပ်လိုက်မယ်ဆိုရင်တော့ အပေါ်က သွင်းထားတဲ့ verminal theme ပြောင်းလဲသွားပြီပဲဖြစ်ပါတယ်။ Shortcut အနေနဲ့ကတော့ Ctrl Ctrl + Shift + R နဲ့ ရိုးရိုး Reload လုပ်လို့ရပြီး Ctrl + Shift + F5 ဆိုပြီး Full Reload လုပ်လို့ရပါပြီ။ ဒါဆိုရင်တော့ အောက်ကလို Theme Color လေးပြောင်းသွားရင်တော့ Success ဖြစ်သွားပြီပဲဖြစ်ပါတယ်။\nအားလုံးအဆင်ပြေသွားတဲ့အတွက် — enjoy your new terminal and Wait other Content for Customize ~ 👏\n"
+            }
+    
+        ,
+            {
+                "id": 4,
                 "href": "https://ksvblog.site/post/2023/removing-desktop-shortcut-arrow/",
                 "title": "Removing Desktop Shortcut Arrow",
                 "section": "posts",
@@ -44,7 +54,7 @@
     
         ,
             {
-                "id": 4,
+                "id": 5,
                 "href": "https://ksvblog.site/post/2021/playing-with-database-1/",
                 "title": "Playing With Database - 1",
                 "section": "posts",
@@ -54,7 +64,7 @@
     
         ,
             {
-                "id": 5,
+                "id": 6,
                 "href": "https://ksvblog.site/post/2021/schedule-shutdown/",
                 "title": "Schedule Shutdown",
                 "section": "posts",
@@ -64,7 +74,7 @@
     
         ,
             {
-                "id": 6,
+                "id": 7,
                 "href": "https://ksvblog.site/post/2021/spotify-downloader/",
                 "title": "Spotify Downloader",
                 "section": "posts",
@@ -74,7 +84,7 @@
     
         ,
             {
-                "id": 7,
+                "id": 8,
                 "href": "https://ksvblog.site/post/2021/apply-hugo-module-twemoji/",
                 "title": "Apply Hugo Module Twemoji",
                 "section": "posts",
@@ -84,7 +94,7 @@
     
         ,
             {
-                "id": 8,
+                "id": 9,
                 "href": "https://ksvblog.site/post/2021/where-i-am/",
                 "title": "Where I Am?",
                 "section": "posts",
@@ -94,7 +104,7 @@
     
         ,
             {
-                "id": 9,
+                "id": 10,
                 "href": "https://ksvblog.site/post/2021/unlock-ooredoo-broadband-b310s-22/",
                 "title": "Unlock Ooredoo Broadband B310s-22",
                 "section": "posts",
@@ -104,7 +114,7 @@
     
         ,
             {
-                "id": 10,
+                "id": 11,
                 "href": "https://ksvblog.site/post/2021/write-protected-i-choice-network-sharing/",
                 "title": "Write Protected? I Choice Network Sharing",
                 "section": "posts",
@@ -114,7 +124,7 @@
     
         ,
             {
-                "id": 11,
+                "id": 12,
                 "href": "https://ksvblog.site/post/2021/useful-browser-tools/",
                 "title": "Useful Browser Tools",
                 "section": "posts",
@@ -124,7 +134,7 @@
     
         ,
             {
-                "id": 12,
+                "id": 13,
                 "href": "https://ksvblog.site/post/2021/ripping-disk-files/",
                 "title": "Ripping Disk Files",
                 "section": "posts",
@@ -134,7 +144,7 @@
     
         ,
             {
-                "id": 13,
+                "id": 14,
                 "href": "https://ksvblog.site/post/2021/generals-zero-hour-crash-fix/",
                 "title": "Generals Zero Hour Crash Fix",
                 "section": "posts",
@@ -144,7 +154,7 @@
     
         ,
             {
-                "id": 14,
+                "id": 15,
                 "href": "https://ksvblog.site/post/2021/activate-office-with-kms-license-key/",
                 "title": "Activate Office With KMS License Key",
                 "section": "posts",
@@ -154,7 +164,7 @@
     
         ,
             {
-                "id": 15,
+                "id": 16,
                 "href": "https://ksvblog.site/post/2021/activate-windows-10-pro-permanently/",
                 "title": "Activate Windows 10 Pro Permanently",
                 "section": "posts",
@@ -164,7 +174,7 @@
     
         ,
             {
-                "id": 16,
+                "id": 17,
                 "href": "https://ksvblog.site/post/2021/woocommerce-states-places-dropdown/",
                 "title": "Woocommerce States Places Dropdown",
                 "section": "posts",
@@ -174,7 +184,7 @@
     
         ,
             {
-                "id": 17,
+                "id": 18,
                 "href": "https://ksvblog.site/post/2021/data-hack-wrap-1-1-1-1/",
                 "title": "Data Hack Warp+ 1.1.1.1",
                 "section": "posts",
@@ -184,7 +194,7 @@
     
         ,
             {
-                "id": 18,
+                "id": 19,
                 "href": "https://ksvblog.site/post/2021/personal-website-is-up-again/",
                 "title": "Personal Website is UP Again!",
                 "section": "posts",
