@@ -1,4 +1,4 @@
-name: github pages
+name: Github Pages
 
 on:
   push:
@@ -33,4 +33,3 @@ jobs:
           
         env:
           AWS_EC2_METADATA_DISABLED: true
-
