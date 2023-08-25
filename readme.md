@@ -17,6 +17,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=h2kyaw.github.io&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=h2kyaw.github.io)
 [![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat)](https://www.paypal.com/paypalme/h2kyaw)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fh2kyaw%2Fh2kyaw.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fh2kyaw%2Fh2kyaw.github.io?ref=badge_shield)
 
 ![website_ss](https://github.com/h2kyaw/h2kyaw.github.io/assets/4678120/df13ddb3-d94b-4e9a-9f82-7cdb85978b92)
 
@@ -38,3 +39,6 @@ Thank you for visiting my digital haven. As I continue to evolve and explore, th
 Warmly,
 
 Hein Htet Kyaw
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fh2kyaw%2Fh2kyaw.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fh2kyaw%2Fh2kyaw.github.io?ref=badge_large)
