@@ -56,7 +56,11 @@ shellArgs: ["--command=usr/bin/bash.exe", "-l", "-i"],
 env: { TERM: "cygwin" },
 
 ```
-ကိုရှာပြီးတော့ ဆိုပြီးပြောင်းလိုက်ပါ။ ဘာကြောင့်လဲဆိုတော့ Customize ကောင်းကောင်းလုပ်ဖို့အတွက်ဆိုရင်တော့ Windows Default Command Prompt က အရမ်းကြီး customize လို့မကောင်းပဲ 
+<script src="https://gist.github.com/coco-napky/404220405435b3d0373e37ec43e54a23.js"></script>
+
+ကိုရှာပြီးတော့ ဆိုပြီးပြောင်းလိုက်ပါ။ configure အပြည့်ဆိုရင်တော့ အပေါ်ကလိုမျိုးဖြစ်သွားပါလိမ့်မယ်။ 
+
+CMD ကို မသုံးတာဘာကြောင့်လဲဆိုတော့ Customize ကောင်းကောင်းလုပ်ဖို့အတွက်ဆိုရင်တော့ Windows Default Command Prompt က အရမ်းကြီး customize လို့မကောင်းပါပဲ၊ 
 
 ```text
 Microsoft Windows [Version 10.0.19045.3324]
